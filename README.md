@@ -9,6 +9,8 @@ This project aims to create a simple but small battery powered OpenShock hub.
 ## Benefits
 - No custom PCB necessary
 - No external antenna necessary
+- Small size 31x25x46mm
+- Large capacity (1100mAh) should last for at least 12h
 
 ---
 
