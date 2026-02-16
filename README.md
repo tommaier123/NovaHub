@@ -44,9 +44,9 @@ This project aims to create a simple but small battery powered OpenShock hub.
 
 <img src="https://github.com/tommaier123/NovaHub/blob/main/Pictures/Board.jpg" height="200"/>
 
-2. Install the battery at the bottom
+2. Install the battery at the bottom of the base
 3. Solder wires to the Opensmart Transmitter
-4. Place the Opensmart Transmitter on top of the shelf
+4. Place the Opensmart Transmitter on top of the shelf in the base walls
 5. Install the Spacer with the open side facing the front (USB C port)
 6. Remove the left or right most pin from the switch
 7. Install the switch with some force. By choosing which way you install it you can select if left or right is on
