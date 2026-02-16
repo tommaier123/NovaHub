@@ -2,7 +2,7 @@
 
 This project aims to create a simple but small battery powered OpenShock hub.
 
-<img src="https://github.com/tommaier123/NovaHub/blob/main/Pictures/Complete.jpg" height="300"/> <img src="https://github.com/tommaier123/NovaHub/blob/main/Pictures/Internal.jpg" height="300"/> <img src="https://github.com/tommaier123/NovaHub/blob/main/Pictures/Lid.jpg" height="300"/>
+<img src="https://github.com/tommaier123/NovaHub/blob/main/Pictures/Complete.jpg" height="330"/> <img src="https://github.com/tommaier123/NovaHub/blob/main/Pictures/Internal.jpg" height="330"/> <img src="https://github.com/tommaier123/NovaHub/blob/main/Pictures/Lid.jpg" height="330"/>
 
 ---
 
