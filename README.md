@@ -49,12 +49,12 @@ This project aims to create a simple but small battery powered OpenShock hub.
 2. Install the battery at the bottom of the base
 3. Solder wires to the Opensmart Transmitter
 4. Place the Opensmart Transmitter on top of the shelf in the base walls
-5. Install the Spacer with the open side facing the front (USB C port)
+5. Install the spacer with the open side facing the front (USB C port)
 6. Remove the left or right most pin from the switch
 7. Install the switch with some force. By choosing which way you install it you can select if left or right is on
 8. Solder the battery positive to on of the switch pins and a wire to the other one
 9. Solder the battery minus to the SuperMini battery minus pad (on the bottom) and the switch wire to the SuperMini battery plus pad (on the bottom)
-10. Install the SuperMini in the Spacer
+10. Install the SuperMini in the spacer
 11. Solder the Opensmart Transmitter pins to the SuperMini (on the top). Connect GND to GND, VCC to 3.3V and SIG to pin 13
 12. (Optional) install the black stencil on the lid (optionally glue it down)
 13. Check that the OpenSmart board is all the way at the back, the spacer is all the way down and the SuperMini is seated flush
