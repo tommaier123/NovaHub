@@ -1,4 +1,4 @@
-# Nova Hub
+# NovaHub
 
 This project aims to create a simple but small battery powered OpenShock hub.
 
