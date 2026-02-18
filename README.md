@@ -65,8 +65,8 @@ This project aims to create a simple but small battery powered OpenShock hub.
 16. Go to [EspHome](https://web.esphome.io/) or another web flasher
 17. Connect the board (you might need to hold the boot button and press the reset button)
 18. Click install and flash the firmware .bin file (if your web flasher requires an address use 0)
-19. Install the lid
-20. Follow the usual [First Time Setup](https://wiki.openshock.org/guides/openshock/first-setup)
+29. Follow the usual [First Time Setup](https://wiki.openshock.org/guides/openshock/first-setup)
+20. Once everything is working snap the lid on the base
 21. **Enjoy** 😸
 
 ---
