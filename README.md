@@ -62,7 +62,7 @@ This project aims to create a simple but small battery powered OpenShock hub.
 
     There are two versions a default one that uses the RGB LED and one that uses the red LED
 15. Plug in the USB to your PC
-16. Go to [EspHome](https://web.esphome.io/) or another web flasher
+16. Go to [EspHome](https://web.esphome.io/) or another web flasher like [spacehuhn](https://esptool.spacehuhn.com/)
 17. Connect the board (you might need to hold the boot button and press the reset button)
 18. Click install and flash the firmware .bin file (if your web flasher requires an address use 0)
 29. Follow the usual [First Time Setup](https://wiki.openshock.org/guides/openshock/first-setup)
